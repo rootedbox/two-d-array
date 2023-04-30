@@ -1,0 +1,27 @@
+{
+  "name": "two-d-array",
+  "version": "1.0.0",
+  "description": "easy create 2 d arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rootedbox/two-d-array.git"
+  },
+  "keywords": [
+    "2d",
+    "array",
+    "npm",
+    "library",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Jason Jacobs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rootedbox/two-d-array/issues"
+  },
+  "homepage": "https://github.com/rootedbox/two-d-array#readme"
+}
