@@ -1,5 +1,5 @@
 {
-  "name": "two-d-array",
+  "name": "rootedbox-two-d-array",
   "version": "1.0.0",
   "description": "easy create 2 d arrays",
   "main": "index.js",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/rootedbox/two-d-array/issues"
   },
-  "homepage": "https://github.com/rootedbox/two-d-array#readme"
+  "homepage": "https://github.com/rootedbox/two-d-array#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
