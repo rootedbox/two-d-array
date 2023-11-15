@@ -20,7 +20,7 @@ yarn add rootedbox-two-d-array
 Require the package in your JavaScript or Node.js project:
 
 ```
-const twoDArray = require('yourusername-two-d-array');
+const twoDArray = require('rootedbox-two-d-array');
 ```
 
 Then, use the twoDArray function to create a new 2D array with the desired dimensions and default value:
